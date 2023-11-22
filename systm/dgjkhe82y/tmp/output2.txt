@@ -1,0 +1,5 @@
+Lines: 2
+Words: 7
+Vowels: 10
+Today is Wednesday
+The month is May

@@ -1,0 +1,25 @@
+option = int(input())
+string = input()
+
+if option == 1:
+  c = len(string)
+  for i in string:
+    if c>-1:
+      letter = string[c-1]
+      print(letter)
+      c=c-1
+if option == 2:
+  c = len(string)
+  for i in string:
+    if c>-1:
+      letter = string[c-1]
+      print(letter+"-")
+      c=c-1
+if option == 3:
+  c = len(string)
+  for i in string:
+    if c>-1:
+      letter = string[c-1]
+      dash = "-",end=""
+      print(letter,end=""+dash)
+      c=c-1

@@ -1,0 +1,17 @@
+option = int(input())
+string = str(input())
+
+if option ==1:
+  print(len(string))
+if option == 2:
+  nth = int(input())
+  print(string[nth-1])
+if option == 3:
+  nth = int(input())
+  print(string[(-1*nth)+1])
+if option == 4:
+  n = int(input())
+  print(string[:n])
+if option == 5:
+  n = int(input())
+  print(string[:-n]

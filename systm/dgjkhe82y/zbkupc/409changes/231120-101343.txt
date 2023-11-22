@@ -1,0 +1,107 @@
++++++++++++++++++++++++++++++++++++
+11/20/23      10:13:43
+Username:     B
+Filename:     409changes.py
++++++++++++++++++++++++++++++++++++
+
+Tests Passed: 12.0 %
+Passed:       2/17 tests
+-----------------------------------
+Test 1 - PASS
+-----------------------------------
+Test 2 - FAIL
+***** Input *****
+2
+go leafs go
+**** Your Output (console) ********
+GO LEAFS GO (12) <---
+-----------------------------------
+**** Expected Output (console) ****
+Go Leafs Go (11)
+-----------------------------------
+Test 3 - FAIL
+***** Input *****
+3
+go leafs go
+**** Your Output (console) ********
+go leafs go (12) <---
+-----------------------------------
+**** Expected Output (console) ****
+GO LEAFS GO (11)
+-----------------------------------
+Test 4 - FAIL
+***** Input *****
+4
+Go Leafs Go
+**** Your Output (console) ********
+         Go Leafs Go (21) <---
+-----------------------------------
+**** Expected Output (console) ****
+go leafs go (11)
+-----------------------------------
+Test 5 - FAIL
+***** Input *****
+5
+Leafs
+**** Your Output (console) ********
+       Leafs        ! (22) <---
+-----------------------------------
+**** Expected Output (console) ****
+               Leafs (20)
+-----------------------------------
+Test 6 - FAIL
+***** Input *****
+6
+Go Leafs Now
+**** Your Output (console) ********
+G!o! !L!e!a!f!s! !N!o!w (24) <---
+-----------------------------------
+**** Expected Output (console) ****
+    Go Leafs Now    ! (21)
+-----------------------------------
+Test 7 - FAIL
+***** Input *****
+7
+Leafs
+**** Your Output (console) ********
+lEAFS (6) <---
+-----------------------------------
+**** Expected Output (console) ****
+L!e!a!f!s (9)
+-----------------------------------
+Test 8 - FAIL
+***** Input *****
+8
+Go Leafs Go
+**** Your Output (console) ********
+     [ 0 lines ]             <---
+-----------------------------------
+**** Expected Output (console) ****
+     [ 1 lines ]
+gO lEAFS gO (11)
+-----------------------------------
+Test 9 - PASS
+-----------------------------------
+Test 10 - Hidden Test Case - FAIL
+-----------------------------------
+Test 11 - Hidden Test Case - FAIL
+-----------------------------------
+Test 12 - Hidden Test Case - FAIL
+-----------------------------------
+Test 13 - Hidden Test Case - FAIL
+-----------------------------------
+Test 14 - Hidden Test Case - FAIL
+-----------------------------------
+Test 15 - 15 - FAIL
+***** Input *****
+7
+goleafsgo
+**** Your Output (console) ********
+GOLEAFSGO (10) <---
+-----------------------------------
+**** Expected Output (console) ****
+g!o!l!e!a!f!s!g!o (17)
+-----------------------------------
+Test 16 - Hidden Test Case - FAIL
+-----------------------------------
+Test 17 - Hidden Test Case - FAIL

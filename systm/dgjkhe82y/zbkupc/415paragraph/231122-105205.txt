@@ -1,0 +1,65 @@
++++++++++++++++++++++++++++++++++++
+11/22/23      10:52:05
+Username:     B
+Filename:     415paragraph.py
++++++++++++++++++++++++++++++++++++
+
+Tests Passed: 71.0 %
+Passed:       5/7 tests
+-----------------------------------
+Test 1 - FAIL
+***** Input *****
+Good morning,
+I am happy to see you.
+How are you today?
+end
+**** Your Output (console) ********
+Lines: 3 (9)
+Words: 12 (10)
+Vowels: 18 (11) <---
+Good morning, (14)
+I am happy to see you. (23)
+How are you today? (19)
+-----------------------------------
+**** Expected Output (console) ****
+Lines: 3 (9)
+Words: 12 (10)
+Vowels: 19 (11)
+Good morning, (14)
+I am happy to see you. (23)
+How are you today? (18)
+-----------------------------------
+Test 2 - PASS
+-----------------------------------
+Test 3 - FAIL
+***** Input *****
+Two roads diverged
+in a yellow wood
+and be one traveller
+long I stood
+end
+**** Your Output (console) ********
+Lines: 4 (9)
+Words: 14 (10)
+Vowels: 22 (11) <---
+Two roads diverged (19)
+in a yellow wood (17)
+and be one traveller (21)
+long I stood (13)
+-----------------------------------
+**** Expected Output (console) ****
+Lines: 4 (9)
+Words: 14 (10)
+Vowels: 23 (11)
+Two roads diverged (19)
+in a yellow wood (17)
+and be one traveller (21)
+long I stood (12)
+-----------------------------------
+Test 4 - PASS
+-----------------------------------
+Test 5 - PASS
+-----------------------------------
+Test 6 - PASS
+-----------------------------------
+Test 7 - PASS

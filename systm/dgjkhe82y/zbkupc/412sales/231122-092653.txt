@@ -1,0 +1,13 @@
++++++++++++++++++++++++++++++++++++
+11/22/23      09:26:53
+Username:     B
+Filename:     412sales.py
++++++++++++++++++++++++++++++++++++
+
+Tests Passed: 0.0%
+
+------------------------------
+Error running "412sales.py"
+
+Disable 'check' mode to see
+regular error messages

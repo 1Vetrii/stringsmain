@@ -1,0 +1,11 @@
+option=int(input())
+if option==1:
+  print("Hello")
+elif option==2:
+  num=int(input())
+  if num<10:
+    print("hi")
+  else:
+    print("goodbye")
+elif option==3:
+  pass

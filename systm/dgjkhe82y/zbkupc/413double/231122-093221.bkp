@@ -1,0 +1,8 @@
+char = ""
+full = ""
+while char != "z":
+  number = input()
+  full = full+char
+double = int(full)*2
+print("Double",full,"is",double)
+  

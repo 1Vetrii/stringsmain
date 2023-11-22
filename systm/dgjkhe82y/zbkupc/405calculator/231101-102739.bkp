@@ -1,0 +1,61 @@
+function = input()
+
+num1 = int(function[0])
+num2 = int(function[2])
+operator = function[1]
+
+def add(a,b):
+  return a+b
+
+def subtract(a,b):
+  return a-b
+
+def multiply(a,b):
+  return a*b
+
+def divide(a,b):
+  return round(a/b,1)
+
+def remainder(a,b):
+  return a%b
+
+def power(a,b):
+  return a**b
+
+def squares(a,b):
+  return (a**2)+(b**2)
+
+def perimeter(a,b):
+  return a+b+a+b
+
+def dividenodec(a,b):
+  return a//b
+
+def greatest(a,b):
+  if a>b:
+    return a
+  elif b>a:
+    return b
+  elif a==b:
+    return a
+
+if operator == "+":
+  print(add(a,b))
+elif operator == "-":
+  print(subtract(a,b))
+elif operator == "*":
+  print(multiply(a,b))
+elif operator == "/":
+  print(divide(a,b))
+elif operator == "%":
+  print(remainder(a,b))
+elif operator == "^":
+  print(power(a,b))
+elif operator == "s":
+  print(squares(a,b))
+elif operator == "r":
+  print(perimeter(a,b))
+elif operator == "i":
+  print(dividenodec(a,b))
+elif operator == "b":
+  print(greatest(a,b))

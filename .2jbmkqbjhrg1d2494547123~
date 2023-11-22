@@ -1,0 +1,7 @@
+lowb=int(input())
+upperb=lowb+10
+num=int(input())
+if num>=lowb and num<=upperb:
+  print("inside")
+else:
+  print("outside")

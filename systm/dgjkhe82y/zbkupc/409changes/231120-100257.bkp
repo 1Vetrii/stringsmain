@@ -1,0 +1,16 @@
+o = int(input())
+string = str(input())
+
+if o==1:
+  a=""
+  a = string[0].capitalize()
+  print(a+string[1:])
+if o==2:
+  a=""
+  print(string.upper())
+if o==3:
+a=""
+print(string.lower())
+if o==4:
+a=""
+print(string.rjust())

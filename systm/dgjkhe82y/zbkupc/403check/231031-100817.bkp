@@ -1,0 +1,12 @@
+while strin !="-99":
+  strin = input()
+  num = strin
+  
+  if len(num) != 5:
+    amountn = 5-len(num)
+    num = strin.replace("",strin[0],amountn)
+  
+  if num[0]==num[1]==num[2]==num[3]==num[4]:
+    print("Pass")
+  else:
+    print("Fail")

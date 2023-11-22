@@ -1,0 +1,114 @@
++++++++++++++++++++++++++++++++++++
+11/13/23      10:32:44
+Username:     B
+Filename:     408phrases3.py
++++++++++++++++++++++++++++++++++++
+
+Tests Passed: 30.0 %
+Passed:       6/20 tests
+-----------------------------------
+Test 1 - PASS
+-----------------------------------
+Test 2 - PASS
+-----------------------------------
+Test 3 - FAIL
+***** Input *****
+3
+bird food
+4
+**** Your Output (console) ********
+o (2) <---
+-----------------------------------
+**** Expected Output (console) ****
+f (1)
+-----------------------------------
+Test 4 - PASS
+-----------------------------------
+Test 5 - FAIL
+***** Input *****
+5
+dog food
+3
+**** Your Output (console) ********
+dog f (6) <---
+-----------------------------------
+**** Expected Output (console) ****
+ood (3)
+-----------------------------------
+Test 6 - FAIL
+***** Input *****
+6
+dog food
+2
+6
+**** Your Output (console) ********
+     [ 0 lines ]             <---
+-----------------------------------
+**** Expected Output (console) ****
+     [ 1 lines ]
+og fo (5)
+-----------------------------------
+Test 7 - FAIL
+***** Input *****
+7
+dog food
+**** Your Output (console) ********
+     [ 0 lines ]             <---
+-----------------------------------
+**** Expected Output (console) ****
+     [ 1 lines ]
+dgfo (4)
+-----------------------------------
+Test 8 - FAIL
+***** Input *****
+8
+cat food
+**** Your Output (console) ********
+     [ 0 lines ]             <---
+-----------------------------------
+**** Expected Output (console) ****
+     [ 1 lines ]
+doof tac (8)
+-----------------------------------
+Test 9 - FAIL
+***** Input *****
+9
+cat food
+**** Your Output (console) ********
+     [ 0 lines ]             <---
+-----------------------------------
+**** Expected Output (console) ****
+     [ 1 lines ]
+do a (4)
+-----------------------------------
+Test 10 - FAIL
+***** Input *****
+10
+happy leaf game
+3
+**** Your Output (console) ********
+     [ 0 lines ]             <---
+-----------------------------------
+**** Expected Output (console) ****
+     [ 1 lines ]
+hplfa (5)
+-----------------------------------
+Test 11 - PASS
+-----------------------------------
+Test 12 - PASS
+-----------------------------------
+Test 13 - Hidden Test Case - FAIL
+-----------------------------------
+Test 14 - PASS
+-----------------------------------
+Test 15 - Hidden Test Case - FAIL
+-----------------------------------
+Test 16 - Hidden Test Case - FAIL
+-----------------------------------
+Test 17 - Hidden Test Case - FAIL
+-----------------------------------
+Test 18 - Hidden Test Case - FAIL
+-----------------------------------
+Test 19 - Hidden Test Case - FAIL
+-----------------------------------
+Test 20 - Hidden Test Case - FAIL

@@ -1,0 +1,6 @@
+string = "word"
+stringreplaced = string.replace("o","r")
+
+
+print(string)
+print(stringreplaced)

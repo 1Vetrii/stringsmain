@@ -1,0 +1,4 @@
+def whatever():
+  return "Whsts up dawg"
+
+print(whatever())

@@ -1,0 +1,7 @@
+num=int(input())
+if num==1:
+  pass
+elif num==2:
+  pass
+elif num==3:
+  pass

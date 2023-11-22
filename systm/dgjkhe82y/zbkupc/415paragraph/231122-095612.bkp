@@ -1,0 +1,15 @@
+line = ""
+whole =""
+lines = 0
+vowels = 0
+while line!="end":
+  whole = whole+(" "+line)
+  lines = lines+1
+  for i in line:
+    if i == "a" or i== "e" or i=="i" or i=="o" or i=="u":
+      vowels = vowels + 1
+
+  line = input()
+
+wordtable = whole.split()
+print(wordtable)

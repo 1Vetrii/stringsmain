@@ -1,0 +1,141 @@
++++++++++++++++++++++++++++++++++++
+11/06/23      09:19:45
+Username:     B
+Filename:     406phrasesB.py
++++++++++++++++++++++++++++++++++++
+
+Tests Passed: 0.0 %
+Passed:       0/24 tests
+-----------------------------------
+Test 1 - 1 - FAIL
+***** Input *****
+1
+seven
+**** Your Output (console) ********
+     [ 0 lines ]             <---
+-----------------------------------
+**** Expected Output (console) ****
+     [ 5 lines ]
+n (2)
+e (2)
+v (2)
+e (2)
+s (1)
+-----------------------------------
+Test 2 - 2 - FAIL
+***** Input *****
+2
+seven
+**** Your Output (console) ********
+     [ 0 lines ]             <---
+-----------------------------------
+**** Expected Output (console) ****
+     [ 5 lines ]
+n- (3)
+e- (3)
+v- (3)
+e- (3)
+s- (2)
+-----------------------------------
+Test 3 - 3 - FAIL
+***** Input *****
+3
+seven
+**** Your Output (console) ********
+     [ 0 lines ]             <---
+-----------------------------------
+**** Expected Output (console) ****
+     [ 1 lines ]
+n-e-v-e-s- (10)
+-----------------------------------
+Test 4 - 4 - FAIL
+***** Input *****
+4
+elephants eat eels everyday
+e
+**** Your Output (console) ********
+     [ 0 lines ]             <---
+-----------------------------------
+**** Expected Output (console) ****
+     [ 1 lines ]
+2 (1)
+-----------------------------------
+Test 5 - 5 - FAIL
+***** Input *****
+5
+elephants eat eels everyday
+e
+**** Your Output (console) ********
+     [ 0 lines ]             <---
+-----------------------------------
+**** Expected Output (console) ****
+     [ 1 lines ]
+yadyrv sl ta stnahpl (20)
+-----------------------------------
+Test 6 - 6 - FAIL
+***** Input *****
+6
+catnip
+2
+**** Your Output (console) ********
+     [ 0 lines ]             <---
+-----------------------------------
+**** Expected Output (console) ****
+     [ 1 lines ]
+i (1)
+-----------------------------------
+Test 7 - 7 - FAIL
+***** Input *****
+7
+elephants eat eels everyday
+11
+**** Your Output (console) ********
+     [ 0 lines ]             <---
+-----------------------------------
+**** Expected Output (console) ****
+     [ 1 lines ]
+ee tae stnahpele (16)
+-----------------------------------
+Test 8 - 8 - FAIL
+***** Input *****
+8
+elephant
+2
+**** Your Output (console) ********
+     [ 0 lines ]             <---
+-----------------------------------
+**** Expected Output (console) ****
+     [ 1 lines ]
+tapl (4)
+-----------------------------------
+Test 9 - Hidden Test Case - FAIL
+-----------------------------------
+Test 10 - Hidden Test Case - FAIL
+-----------------------------------
+Test 11 - Hidden Test Case - FAIL
+-----------------------------------
+Test 12 - Hidden Test Case - FAIL
+-----------------------------------
+Test 13 - Hidden Test Case - FAIL
+-----------------------------------
+Test 14 - Hidden Test Case - FAIL
+-----------------------------------
+Test 15 - Hidden Test Case - FAIL
+-----------------------------------
+Test 16 - Hidden Test Case - FAIL
+-----------------------------------
+Test 17 - Hidden Test Case - FAIL
+-----------------------------------
+Test 18 - Hidden Test Case - FAIL
+-----------------------------------
+Test 19 - Hidden Test Case - FAIL
+-----------------------------------
+Test 20 - Hidden Test Case - FAIL
+-----------------------------------
+Test 21 - Hidden Test Case - FAIL
+-----------------------------------
+Test 22 - Hidden Test Case - FAIL
+-----------------------------------
+Test 23 - Hidden Test Case - FAIL
+-----------------------------------
+Test 24 - Hidden Test Case - FAIL

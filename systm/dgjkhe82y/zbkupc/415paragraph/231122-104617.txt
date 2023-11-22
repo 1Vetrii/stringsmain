@@ -1,0 +1,91 @@
++++++++++++++++++++++++++++++++++++
+11/22/23      10:46:17
+Username:     B
+Filename:     415paragraph.py
++++++++++++++++++++++++++++++++++++
+
+Tests Passed: 0.0 %
+Passed:       0/7 tests
+-----------------------------------
+Test 1 - FAIL
+***** Input *****
+Good morning,
+I am happy to see you.
+How are you today?
+end
+**** Your Output (console) ********
+     [ 7 lines ]             <---
+Lines: 4 (9)
+Words: 12 (10)
+Vowels: 18 (11)
+Good morning, (14)
+I am happy to see you. (23)
+How are you today? (19)
+ (1)
+-----------------------------------
+**** Expected Output (console) ****
+     [ 6 lines ]
+Lines: 3 (9)
+Words: 12 (10)
+Vowels: 19 (11)
+Good morning, (14)
+I am happy to see you. (23)
+How are you today? (18)
+-----------------------------------
+Test 2 - FAIL
+***** Input *****
+Today is Wednesday
+The month is May
+end
+**** Your Output (console) ********
+     [ 6 lines ]             <---
+Lines: 3 (9)
+Words: 7 (9)
+Vowels: 10 (11)
+Today is Wednesday (19)
+The month is May (17)
+ (1)
+-----------------------------------
+**** Expected Output (console) ****
+     [ 5 lines ]
+Lines: 2 (9)
+Words: 7 (9)
+Vowels: 10 (11)
+Today is Wednesday (19)
+The month is May (16)
+-----------------------------------
+Test 3 - FAIL
+***** Input *****
+Two roads diverged
+in a yellow wood
+and be one traveller
+long I stood
+end
+**** Your Output (console) ********
+     [ 8 lines ]             <---
+Lines: 5 (9)
+Words: 14 (10)
+Vowels: 22 (11)
+Two roads diverged (19)
+in a yellow wood (17)
+and be one traveller (21)
+long I stood (13)
+ (1)
+-----------------------------------
+**** Expected Output (console) ****
+     [ 7 lines ]
+Lines: 4 (9)
+Words: 14 (10)
+Vowels: 23 (11)
+Two roads diverged (19)
+in a yellow wood (17)
+and be one traveller (21)
+long I stood (12)
+-----------------------------------
+Test 4 - Hidden Test Case - FAIL
+-----------------------------------
+Test 5 - Hidden Test Case - FAIL
+-----------------------------------
+Test 6 - Hidden Test Case - FAIL
+-----------------------------------
+Test 7 - Hidden Test Case - FAIL

@@ -1,0 +1,9 @@
+string = input()
+
+num1 = int(string[0:5].strip())
+num2 = int(string[5:10].strip())
+num3 = int(string[10:15].strip())
+num4 = int(string[15:20].strip())
+num5 = int(string[20:])
+
+print(num1,num2,num3,num4,num5)

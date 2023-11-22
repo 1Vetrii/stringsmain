@@ -1,0 +1,15 @@
+## This program has two options already working
+## and two options that are not finished yet
+option=int(input())
+if option==1:
+  print("Hello")
+elif option==2:
+  num=int(input())
+  if num<10:
+    print("hi")
+  else:
+    print("goodbye")
+elif option==3:
+  pass
+elif option==4:
+  pass

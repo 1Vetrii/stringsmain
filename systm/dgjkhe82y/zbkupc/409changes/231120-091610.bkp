@@ -1,0 +1,7 @@
+o = int(input())
+string = str(input())
+
+if o==1:
+  a=""
+  a = string[0].capitalize
+  print(str(a)+string[1:])

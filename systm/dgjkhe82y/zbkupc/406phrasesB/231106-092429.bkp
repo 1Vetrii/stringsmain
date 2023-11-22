@@ -1,0 +1,9 @@
+option = int(input())
+string = input()
+
+if option == 1:
+  c = len(string)
+  for i in string:
+    if c>-1:
+      print(string[c-1])
+      c=c-1

@@ -1,0 +1,5 @@
+def divide(num1,num2):
+  answer = round(num1/num2,2)
+  return answer
+
+print(divide(5,6))

@@ -1,0 +1,7 @@
+sent = str(input())
+sentence = sent.replace
+(" ", "")
+
+print(f"That sentence has {len(sentence)} characters")
+print(f"The 3rd character is: {sentence[3]}")
+print(f"The last character is: {sentence[-1]}")

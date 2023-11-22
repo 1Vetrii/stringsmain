@@ -1,0 +1,2 @@
+project=3U-04-Strings
+bklocation=backups,ics3c11

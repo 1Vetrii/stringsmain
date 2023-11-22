@@ -1,0 +1,34 @@
+import sys
+infile = "systm/dgjkhe82y/tmp/input19.txt"
+sys.stdin = open (infile)
+#----------------------------------
+option = int(input())
+string = str(input())
+
+if option ==1:
+  print(len(string))
+if option == 2:
+  nth = int(input())
+  print(string[nth-1])
+if option == 3:
+  nth = int(input())
+  print(string[(-1*nth)])
+if option == 4:
+  n = int(input())
+  print(string[:n])
+if option == 5:
+  n = int(input())
+  print(string[-n:])
+if option == 6:
+  n = int(input())
+  a = int(input())
+  print(string[n-1:a])
+if option == 7:
+  print(string[::2])
+if option == 8:
+  print(string[::-1])
+if option == 9:
+  print(string[::-2])
+if option == 10:
+  n = int(input())
+  print(string[::n])

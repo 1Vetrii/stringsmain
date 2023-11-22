@@ -1,0 +1,46 @@
+##showoverall=true
+##400helloworld.py
+## Mon Oct 30
+401sentences.py
+402multiple5.py
+## Tue Oct 31
+403check.py
+404numbers.py
+## Wed Nov 1
+405calculator.py
+## Thu Nov 2 (2 days)
+406phrasesB.py
+## (CUPE strike delayed things in 2022)
+## Mon Nov 11
+407dice.py
+######405rounds.py eval????
+## Mon Nov 7
+408phrases3.py
+## Wed Nov 8
+409changes.py
+## Thu Nov 9
+410sentence.py
+411scores.py
+################
+## Fri
+412sales.py
+################
+## Mon
+413double.py
+414points.py
+## Tue
+415paragraph.py
+## Wed
+416words.py
+## Wed
+417summarize.py
+## Thu
+418total.py
+## Fri
+419deword.py
+##420total2.py
+## Last Year
+##301phrases.py
+##304phrases2.py
+##315rockpaper.py
+##417difference.eval

@@ -1,0 +1,3 @@
+word = "hiee"
+print(len(word))
+print(word[3])

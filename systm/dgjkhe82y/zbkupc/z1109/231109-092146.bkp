@@ -1,0 +1,5 @@
+print(1,"     a     "+"*")
+print(2,"     a     ".replace(" ","",5)+"*")
+print(3,"     a     ".lstrip()+"*")
+print(4,"     a     ".rstrip()+"*")
+print(5,"     a     ".replace(" ","")+"*")

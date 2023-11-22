@@ -1,0 +1,7 @@
+string = input()
+
+name = string[0:10].strip()
+method = string[10:20]
+location = string[20:30]
+
+print(name,method,location)

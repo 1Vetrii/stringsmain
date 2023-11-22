@@ -1,0 +1,34 @@
++++++++++++++++++++++++++++++++++++++++++
+02/17/21      22:32:48
+Project:      zz-Template-3C
+Codename:     v3a
++++++++++++++++++++++++++++++++++++++++++
+Assignment               Result    Weight
+*****************************************
+01helloworld.py           100.0       2.0
+02goodbye.py                0.0       2.0
+03hellothere.py             0.0       2.0
+04sentence.py               0.0       2.0
+05hellothere.py             0.0       2.0
+06sentence.py               0.0       2.0
+07rectangle.py              0.0       2.0
+08purchase.py               0.0       2.0
+09dayofweek.py              0.0       2.0
+10cities.py                 0.0       2.0
+11options.py                0.0       2.0
+12evenodd.py                0.0       2.0
+13vowels.py                 0.0       2.0
+14evenodd.py                0.0       2.0
+15months.py                 0.0       2.0
+16posneg.py                 0.0       2.0
+17guess1.py                 0.0       2.0
+18rockpaper1.py             0.0       2.0
+19grades.py                 0.0       2.0
+20digits.py                 0.0       2.0
+21temperature.py            0.0       2.0
+24hellothere.py             0.0       2.0
+25sentence.py               0.0       2.0
+26rectangle.py              0.0       2.0
+27purchase.py               0.0       2.0
+*****************************************
+Weighted Average: 4 %

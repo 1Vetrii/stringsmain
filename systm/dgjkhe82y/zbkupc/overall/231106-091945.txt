@@ -1,0 +1,15 @@
++++++++++++++++++++++++++++++++++++++++++
+11/06/23      09:19:45
+Project:      04Strings-TysonCranston
+Username:     B
++++++++++++++++++++++++++++++++++++++++++
+Assignment               Result    Weight
+*****************************************
+401sentences.py           100.0       2.0
+402multiple5.py           100.0       2.0
+403check.py               100.0       2.0
+404numbers.py             100.0       2.0
+405calculator.py          100.0       2.0
+406phrasesB.py              0.0       2.0
+*****************************************
+Weighted Average: 83 %

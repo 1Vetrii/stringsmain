@@ -1,0 +1,2 @@
+sentence = str(input())
+print(f"That sentence has {len(sentence)} characters")

@@ -1,0 +1,59 @@
++++++++++++++++++++++++++++++++++++
+10/31/23      09:32:18
+Username:     B
+Filename:     401sentences.py
++++++++++++++++++++++++++++++++++++
+
+Tests Passed: 0.0 %
+Passed:       0/6 tests
+-----------------------------------
+Test 1 - FAIL
+***** Input *****
+A fox ran outside
+**** Your Output (console) ********
+That sentence has 17 characters (32)
+The 3rd character is: o (24) <---
+The last character is: e (25)
+It is a short sentence (23)
+-----------------------------------
+**** Expected Output (console) ****
+That sentence has 17 characters (32)
+The 3rd character is: f (24)
+The last character is: e (25)
+It is a short sentence (22)
+-----------------------------------
+Test 2 - FAIL
+***** Input *****
+The red fox ran fast
+**** Your Output (console) ********
+That sentence has 20 characters (32)
+The 3rd character is:   (24) <---
+The last character is: t (25)
+It is a perfect sentence (25)
+-----------------------------------
+**** Expected Output (console) ****
+That sentence has 20 characters (32)
+The 3rd character is: e (24)
+The last character is: t (25)
+It is a perfect sentence (24)
+-----------------------------------
+Test 3 - FAIL
+***** Input *****
+A red fox ran super slow
+**** Your Output (console) ********
+That sentence has 24 characters (32)
+The 3rd character is: e (24) <---
+The last character is: w (25)
+It is a long sentence (22)
+-----------------------------------
+**** Expected Output (console) ****
+That sentence has 24 characters (32)
+The 3rd character is: r (24)
+The last character is: w (25)
+It is a long sentence (21)
+-----------------------------------
+Test 4 - Hidden Test Case - FAIL
+-----------------------------------
+Test 5 - Hidden Test Case - FAIL
+-----------------------------------
+Test 6 - Hidden Test Case - FAIL

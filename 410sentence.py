@@ -1,0 +1,7 @@
+string = input()
+
+name = string[0:10].strip()
+method = string[10:20].strip()
+location = string[20:30].strip()
+
+print(name,"went to",location,"by",method+"!")

@@ -1,0 +1,11 @@
+string = input()
+
+num1 = int(string[0:5].strip("b"))
+num2 = int(string[5:10].strip("b"))
+num3 = int(string[10:15].strip("b"))
+num4 = int(string[15:20].strip("b"))
+num5 = int(string[20:])
+
+print(num1,num2,num3,num4,num5)
+print("The sum of the numbers is",num1+num2+num3+num4+num5)
+print("The average of the numbers is",(num1+num2+num3+num4+num5)/5)

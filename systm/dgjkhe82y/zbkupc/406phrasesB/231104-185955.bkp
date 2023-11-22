@@ -1,0 +1,4 @@
+string = input()
+stringreplaced = string.replace("igge","ice ca")
+print(string)
+print(stringreplaced)

@@ -1,0 +1,85 @@
+BANNED=for,break,elif,[,{
+LIMITS=if,1
+#LIMITS=(,2,=,1
+#ATLEAST=(,5,=int,2
+#REQUIRED=import math
+
+case=
+input=Good morning,
+I am happy to see you.
+How are you today?
+end
+output=Lines: 3
+Words: 12
+Vowels: 19
+Good morning,
+I am happy to see you.
+How are you today?
+
+case=
+input=Today is Wednesday
+The month is May
+end
+output=Lines: 2
+Words: 7
+Vowels: 10
+Today is Wednesday
+The month is May
+
+case=
+input=Two roads diverged
+in a yellow wood
+and be one traveller
+long I stood
+end
+output=Lines: 4
+Words: 14
+Vowels: 23
+Two roads diverged
+in a yellow wood
+and be one traveller
+long I stood
+
+case=hidden4
+input=Go Leafs Go!
+end
+output=Lines: 1
+Words: 3
+Vowels: 4
+Go Leafs Go!
+
+case=hidden5
+input=Go Leafs Go!
+Mitch Marner
+end
+output=Lines: 2
+Words: 5
+Vowels: 7
+Go Leafs Go!
+Mitch Marner
+
+case=hidden6
+input=Go Leafs Go!
+Mitch Marner
+rocks!
+end
+output=Lines: 3
+Words: 6
+Vowels: 8
+Go Leafs Go!
+Mitch Marner
+rocks!
+
+case=hidden7
+input=Go Leafs Go!
+Mitch Marner
+rocks!
+awesome Matthews
+end
+output=Lines: 4
+Words: 8
+Vowels: 14
+Go Leafs Go!
+Mitch Marner
+rocks!
+awesome Matthews

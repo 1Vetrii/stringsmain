@@ -1,0 +1,9 @@
+strin = input()
+num = strin.replace("",strin[0],5)
+
+if num[0]==num[1]==num[2]==num[3]==num[4]:
+  print("Pass")
+else:
+  print("Fail")
+
+print(num)

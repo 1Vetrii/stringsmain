@@ -1,0 +1,8 @@
+option=int(input())
+if option==1:
+  print("Wednesday")
+elif option==2:
+  num=int(input())
+  print(num*2)
+elif option==3:
+  pass

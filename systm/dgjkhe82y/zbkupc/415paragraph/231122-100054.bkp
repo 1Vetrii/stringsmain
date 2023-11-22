@@ -1,0 +1,13 @@
+line = ""
+whole =""
+lines = 0
+vowels = 0
+while line!="end":
+  whole = whole+(" "+line)
+  lines = lines+1
+  vowels = vowels+line.count("a")+line.count("e")+line.count("i")+line.count("o")+line.count("u")
+
+  line = input()
+
+wordtable = whole.split()
+print(wordtable)

@@ -1,0 +1,6 @@
+o = int(input())
+string = str(input())
+
+if o==1:
+  
+  print("apples"[1:])

@@ -1,0 +1,13 @@
++++++++++++++++++++++++++++++++++++
+10/31/23      09:29:44
+Username:     B
+Filename:     400helloworld.py
++++++++++++++++++++++++++++++++++++
+
+Tests Passed: 0.0%
+
+------------------------------
+Error running "400helloworld.py"
+
+Disable 'check' mode to see
+regular error messages

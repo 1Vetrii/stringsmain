@@ -1,0 +1,56 @@
++++++++++++++++++++++++++++++++++++
+10/31/23      09:41:02
+Username:     B
+Filename:     402multiple5.py
++++++++++++++++++++++++++++++++++++
+
+Tests Passed: 0.0 %
+Passed:       0/5 tests
+-----------------------------------
+Test 1 - FAIL
+***** Input *****
+5
+3
+10
+7
+20
+-99
+**** Your Output (console) ********
+You entered... (15)
+5 numbers (10)
+3 of the numbers were multiples of 5 (37)
+The sum of those numbers is 45 (31) <---
+-----------------------------------
+**** Expected Output (console) ****
+You entered... (15)
+5 numbers (10)
+3 of the numbers were multiples of 5 (37)
+The sum of those numbers is 35 (30)
+-----------------------------------
+Test 2 - FAIL
+***** Input *****
+45
+25
+43
+18
+5
+100
+21
+-99
+**** Your Output (console) ********
+You entered... (15)
+7 numbers (10)
+4 of the numbers were multiples of 5 (37)
+The sum of those numbers is 257 (32) <---
+-----------------------------------
+**** Expected Output (console) ****
+You entered... (15)
+7 numbers (10)
+4 of the numbers were multiples of 5 (37)
+The sum of those numbers is 175 (31)
+-----------------------------------
+Test 3 - Hidden Test Case - FAIL
+-----------------------------------
+Test 4 - Hidden Test Case - FAIL
+-----------------------------------
+Test 5 - Hidden Test Case - FAIL

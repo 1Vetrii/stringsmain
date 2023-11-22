@@ -1,0 +1,7 @@
+#EVERY=gf.py,gf9.py,gfz.py
+#### Be Careful which files you list in every!!
+#### They get updated when FORCE is YES
+#### Probably don't want to do 1.sh,up.py
+#### EVERY=2b.sh,cup.py,gf.py,gf2.py,gf3.py
+FORCE=NO
+#STARTERS=205forloops.py,206forloops.py,207forloops.py,208forloops.py,209forloops.py

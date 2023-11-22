@@ -1,0 +1,47 @@
++++++++++++++++++++++++++++++++++++
+11/07/23      09:20:12
+Username:     B
+Filename:     406phrasesB.py
++++++++++++++++++++++++++++++++++++
+Banned Strings are:
+['while', '\\n', 'join', 'count', 'break']
+
+15 banned string(s) found
+
+Line 31:   count = 0
+
+Line 36:         count = count+1
+
+Line 38:   print(count)
+
+Line 54:   count = 0
+
+Line 59:       if count%nth == 0:
+
+Line 62:         count = count+1
+
+Line 66:         count = count+1
+
+Line 70:   count = 0
+
+Line 75:       if count>nth:
+
+Line 78:         count = count+1
+
+Line 82:         count = count+1
+
+Line 86:   count = 0
+
+Line 91:       if count%nth == 0:
+
+Line 94:         count = count+1
+
+Line 98:         count = count+1
+
++++++++++++++++++++++++++++++++++++
+
+CHECK MODE HALTED...
+
+Review Restrictions in Assignment
+
+Tests Passed: 0.0 %
